@@ -6,7 +6,7 @@ A merge conflict is a situation that arises when two or more developers make cha
 ![image](https://github.com/leeu4/conflict/assets/123780953/216a3cde-e566-4d5d-b112-8a20f33eff6e)
 ### 1.2- Git & GitHub:
 Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. In simple terms, you can use git without Github, but you cannot use GitHub without Git.
-### 2- Scenario:
+## 2- Scenario:
 Suppose two developers, Alice and Bob, are working on the same codebase. Alice modifies line 10 of a file to add a new feature, while Bob removes that line to fix a bug. When Git tries to merge their changes, it encounters a conflict because both developers have modified the same line.
 ### 2.1- Resolving merge conflicts:
 #### To resolve a merge conflict, developers need to manually review the changes and decide how to incorporate them. There are two main approaches:
